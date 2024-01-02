@@ -1,0 +1,20 @@
+.modelCard {
+  background-color: lightyellow;
+}
+.modelCardBox {
+  background-color: lightcoral;
+}
+#ANIMALlist {
+  background-color: lightcyan;
+}
+
+#animalForm {
+  height: 50px;
+  background-color: lightpink;
+}
+#animalInput {
+  background-color: lavender;
+}
+#submitButton {
+  background-color: lightblue;
+}
